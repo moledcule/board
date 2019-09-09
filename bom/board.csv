@@ -1,0 +1,16 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"PROD_ID";"VALUE";
+"1";"";"M10X2";"2X10";"U$1";"This was SPECIALLY designed to be used with our Graphic LCD Backpack.  Be sure you want to use this!  It is not only staggered on each line of header holes, but IT IS ALSO offset of the center point of the top and bottom lines by 5 mil.  This causes the headers to lock into place on the "standard" footprint on the LCD screen.  The extra squares on the tdocu layer are there simply to reference other pins (if you were to actually populate a longer header than ten long - this is what we do with the backpacks).";"";"";
+"4";"0.1uF";"C-USC0603";"C0603";"C1, C4, C6, C7";"CAPACITOR, American symbol";"";"";
+"1";"10Kohm";"R-US_R0603";"R0603";"R7";"RESISTOR, American symbol";"";"";
+"1";"10uF";"10UF-POLAR-0603-6.3V-20%(TANT)";"0603-POLAR";"C5";"10.0µF polarized capacitors";"CAP-13210";"10uF";
+"1";"16MHz";"XTALNX5032";"NX5032";"X3";"";"";"";
+"2";"18pF";"C-USC0603";"C0603";"C2, C3";"CAPACITOR, American symbol";"";"";
+"4";"1Kohm";"R-US_R0603";"R0603";"R2, R4, R5, R6";"RESISTOR, American symbol";"";"";
+"2";"220ohm";"R-US_R0603";"R0603";"R1, R3";"RESISTOR, American symbol";"";"";
+"1";"500mA";"PTCFUSE-1206";"R1206";"L1";"PTC fuses, resettable thermistors";"";"";
+"1";"ATMEGA32U4QFN2";"ATMEGA32U4QFN2";"SPARKFUN-DIGITALIC_QFN-44-NOPAD";"U$2";"Atmel 44-pin 8-bit Microcontroller with 32KBytes of ISP Flash and USB Controller -----";"";"";
+"1";"AVR_SPI_PRG_6PTH";"AVR_SPI_PRG_6PTH";"2X3";"ISP6";"AVR ISP 6 Pin";"";"";
+"4";"LED";"LEDCHIPLED_0603";"CHIPLED_0603";"CFG, LEDRX, LEDTX, PWR";"LED";"";"";
+"1";"LED";"M03JST-PTH-VERT";"JST-3-PTH-VERT";"J1";"Header 3";"";"";
+"1";"MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM";"MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM";"TACTILE_SWITCH_SMD_4.6X2.8MM";"S1";"Momentary Switch (Pushbutton) - SPST";"SWCH-13065";"";
+"1";"USB-MICROB";"USB-MICROB";"USB-MICROB";"CN1";"USB Connectors";"CONN-09505";"";
